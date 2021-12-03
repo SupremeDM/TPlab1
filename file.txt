@@ -1,0 +1,13 @@
+Student
+Name: Aydarov Dmitry Vladimirovich
+Group: 1941
+Specialty: IT
+Current course: 
+Average mark: 4.7
+
+Staff
+Name: dfdf dssd ssdsd
+Position: director
+Area of responsibility: boss
+Current course: 
+
